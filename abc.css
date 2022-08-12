@@ -1,0 +1,5 @@
+.row img:hover{
+    transform:scale(1.1);
+    box-shadow:0 0 10px rgb(41, 10, 238),0 0 10px rgb(41, 66, 255),0 0 15px rgb(42, 98, 238);
+    cursor: pointer;
+}
